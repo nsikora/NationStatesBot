@@ -1,14 +1,10 @@
 # NationStatesBot
 
 
-
 This bot is a small python script using selenium framework.
 This bot is used to farm challenges points with 100% winrate in the challenge mode in the web browser game "nationstates"
 
-
 A file named "credentials" will need the following content format to perform succesfully:
-
-
 "countryName,password,countryNameTarget"
 
 
