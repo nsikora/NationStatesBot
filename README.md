@@ -8,5 +8,5 @@ A file named "credentials" will need the following content format to perform suc
 "countryName,password,countryNameTarget"
 
 countryName:		The name of your country, in order for the bot to login.                                                   
-password:		Your password in order for the bot to login. 
+password:		Your password in order for the bot to login.                                                  
 countryNameTarget:	The target name that the bot will need to farm the challenges points. 
